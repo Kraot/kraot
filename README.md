@@ -10,7 +10,7 @@ Software e atualmente estou cursando um Pos-Graduação em Data Science e Analyt
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/kraot07?tab=achievements)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-alves-ribeiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kraot)
-[![GitHub](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white)](null)
 ## Habilidades
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
